@@ -1,5 +1,5 @@
 
-<h1>Morgan Motor Company </h1>
+<h1>Morgan Motor Company </h1> -tribute page
 
 ![image](https://user-images.githubusercontent.com/33400427/37484146-0e844814-285e-11e8-9792-8de25e58a5fc.png)
 

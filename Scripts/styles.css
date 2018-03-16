@@ -78,3 +78,12 @@ p.text {
 .textToolTip{
   color: blue;
 }
+
+.createdBy {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  color: cadetblue;
+
+  
+}

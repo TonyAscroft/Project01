@@ -26,12 +26,14 @@ p {
 
 
 a {
-  color: white;
+  color: steelblue;
+  transition: 0.3s;
 }
 
 a:hover {
-  color: white;
-  background-color: rgba(0, 0, 0, 0.3)
+  color: skyblue;
+  text-decoration: none;
+  opacity: .5;
 }
 
 #footer {
@@ -87,3 +89,36 @@ p.text {
 
   
 }
+
+.center {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    border-radius: 12px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.button4:hover {
+  opacity: 1;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+/*
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+*/
